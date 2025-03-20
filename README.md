@@ -1,6 +1,6 @@
 # hello-world
 
-Hello World repository for Git tutorial
+Hello World repository for the Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 created new branch update-readme
 
