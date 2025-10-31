@@ -7,3 +7,4 @@ created new branch update-readme
 This repository is built step by step in the tutorial.
 
 1. Have HTML file named index.html
+2. Have HTML file named index.html
